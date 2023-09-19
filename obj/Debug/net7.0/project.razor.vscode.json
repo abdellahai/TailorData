@@ -87,69 +87,6 @@
         }
       },
       {
-        "HashCode": 235192091,
-        "Kind": "Components.Component",
-        "Name": "Tailor.Shared.SurveyPrompt",
-        "AssemblyName": "Tailor",
-        "DisplayName": "Tailor.Shared.SurveyPrompt",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "DisplayName": "string Tailor.Shared.SurveyPrompt.Title",
-            "Metadata": {
-              "Common.PropertyName": "Title",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
-            }
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "Tailor.Shared.SurveyPrompt",
-          "Common.TypeNameIdentifier": "SurveyPrompt",
-          "Common.TypeNamespace": "Tailor.Shared",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 1549002352,
-        "Kind": "Components.Component",
-        "Name": "Tailor.Shared.SurveyPrompt",
-        "AssemblyName": "Tailor",
-        "DisplayName": "Tailor.Shared.SurveyPrompt",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Tailor.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "DisplayName": "string Tailor.Shared.SurveyPrompt.Title",
-            "Metadata": {
-              "Common.PropertyName": "Title",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
-            }
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "Tailor.Shared.SurveyPrompt",
-          "Common.TypeNameIdentifier": "SurveyPrompt",
-          "Common.TypeNamespace": "Tailor.Shared",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
         "HashCode": -866142239,
         "Kind": "Components.Component",
         "Name": "Tailor.Shared.MainLayout",
@@ -24326,11 +24263,6 @@
     {
       "FilePath": "d:\\Programming\\Tailor\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "d:\\Programming\\Tailor\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
       "FileKind": "component"
     },
     {
